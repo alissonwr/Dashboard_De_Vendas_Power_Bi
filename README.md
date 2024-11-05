@@ -22,4 +22,9 @@ As visualizações principais incluem gráficos de barras, gráficos de linha, g
 ## 6. Atualização e Manutenção
 Os dados coletados baseiam-se em dois anos de referência, por isso não serão atualizados. Um processo de ETL (Extração, Transformação e Carga) foi realizado para garantir que os dados estivessem limpos e adequados.
 
+## 7. Capturas de Tela
+Capturas de tela do dashboard foram incluídas para ilustrar as visualizações apresentadas.
 
+![Página1](pagina1.png)
+![Página2](pagina2.png)
+![Página3](pagina3.png)
