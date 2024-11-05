@@ -28,3 +28,5 @@ Capturas de tela do dashboard foram incluídas para ilustrar as visualizações 
 ![Página1](pagina1.png)
 ![Página2](pagina2.png)
 ![Página3](pagina3.png)
+
+
